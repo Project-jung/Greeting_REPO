@@ -1,4 +1,4 @@
-#22100661 Jeong dahun
+# 22100661 Jeong dahun
 
 Hi I'm dahun
 Handong Global Univesity student
